@@ -131,7 +131,7 @@ fetch(`/answer?word=${encodeURIComponent(spanContent)}`)
                         title: "Trò chơi kết thúc!",
                         text: data.win ? "Bạn đã dành chiến thắng" : "Bạn đã thua",
                         buttons: ["Trang chủ", "Chơi lại"],
-                        icon: data.win == true ? "success" : "error",
+                        icon: data.win == true ? "success" : "success",
                     }).then((playAgain) => {
                         let rand = Math.random()
                         if (playAgain) {
