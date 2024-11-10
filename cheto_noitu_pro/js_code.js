@@ -66,7 +66,7 @@
                 $('#text').val("").focus()
             }
             currentWord = data
-var delayInMilliseconds = 1000; //1 second
+var delayInMilliseconds = 400; //0.4 second
 setTimeout(function() {
 // 1. Lấy nội dung của thẻ span có id là "currentWord"
 const spanContent = document.getElementById('currentWord').textContent.trim();
