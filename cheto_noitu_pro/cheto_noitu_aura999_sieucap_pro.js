@@ -148,7 +148,7 @@ async function todo(){
     playAgainButton.click();
     clearInterval(intervalId); // Dừng việc kiểm tra sau khi nhấn nút
   }
-}, 1000); // Kiểm tra mỗi giây
+}, 3000); // Kiểm tra mỗi giây
                     swal({
                         title: "Trò chơi kết thúc!",
                         text: data.win ? "Bạn đã dành chiến thắng" : "Bạn đã thua",
