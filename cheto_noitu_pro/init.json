@@ -1,1 +1,5 @@
-{"error": false, "text": "sắc đẹp", "head": "sắc", "tail": "đẹp", "chuan": "sắc đẹp"}
+[
+  {"error": false, "text": "sắc đẹp", "head": "sắc", "tail": "đẹp", "chuan": "sắc đẹp"},
+  {"error": false, "text": "hạt cát", "head": "hạt", "tail": "cát", "chuan": "hạt cát"},
+  {"error": false, "text": "dây thép", "head": "dây", "tail": "thép", "chuan": "dây thép"}
+]
