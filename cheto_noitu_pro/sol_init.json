@@ -1,8 +1,3 @@
 [
-  {"error": false, "text": "đẹp đẽ", "head": "đẹp", "tail": "đẽ", "chuan": "đẹp đẽ"},
-  {"error": false, "text": "cát bitum", "head": "cát", "tail": "bitum", "chuan": "cát bitum"},
-  {"error": false, "text": "thép bulông", "head": "thép", "tail": "bulông", "chuan": "thép bulông"},
-  {"error": false, "text": "cân ampe", "head": "cân", "tail": "ampe", "chuan": "cân ampe"},
-  {"error": false, "text": "keo anbumin", "head": "keo", "tail": "anbumin", "chuan": "keo anbumin"},
-  {"error": false, "text": "bản anôt", "head": "bản", "tail": "anôt", "chuan": "bản anôt"}
+  {"error": false, "text": "rơle DIP", "head": "rơle", "tail": "DIP", "chuan": "rơle DIP"}
 ]
