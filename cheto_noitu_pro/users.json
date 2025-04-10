@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "password": "123456",
+    "date": "10/04/2025 to 20/04/2025",
+    "vip": "yes"
+  },
+  {
+    "username": "user1",
+    "password": "abcdef",
+    "date": "09/04/2025 to 30/04/2025",
+    "vip": "no"
+  }
+]
