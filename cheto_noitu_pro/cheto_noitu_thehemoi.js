@@ -249,7 +249,7 @@ async function todo(){
             $('#group-text').hide()
             $('.jtextfill').hide()
 
-            //scoreBoard()
+            //scoreBoard() 
             showAds(() => {
                 if (Cookies.get('guideSolo')) {
                     startOrEditName()
