@@ -149,7 +149,7 @@ async function todo(){
             $('#noti').show()
             $('.score').html(`(${score}) ${decodeURIComponent(Cookies.get("name2"))}`)
 
-            socket = io("https://solo.noitu.pro");
+            socket = io("https://solo.noitu.site");
 
             setTimeout(() => {
                 socket.emit('queue', {
